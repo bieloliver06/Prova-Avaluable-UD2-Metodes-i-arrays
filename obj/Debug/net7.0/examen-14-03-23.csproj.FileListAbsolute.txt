@@ -1,0 +1,15 @@
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\bin\Debug\net7.0\examen-14-03-23.exe
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\bin\Debug\net7.0\examen-14-03-23.deps.json
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\bin\Debug\net7.0\examen-14-03-23.runtimeconfig.json
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\bin\Debug\net7.0\examen-14-03-23.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\bin\Debug\net7.0\examen-14-03-23.pdb
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\obj\Debug\net7.0\examen-14-03-23.csproj.AssemblyReference.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\obj\Debug\net7.0\examen-14-03-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\obj\Debug\net7.0\examen-14-03-23.AssemblyInfoInputs.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\obj\Debug\net7.0\examen-14-03-23.AssemblyInfo.cs
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\obj\Debug\net7.0\examen-14-03-23.csproj.CoreCompileInputs.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\obj\Debug\net7.0\examen-14-03-23.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\obj\Debug\net7.0\refint\examen-14-03-23.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\obj\Debug\net7.0\examen-14-03-23.pdb
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\obj\Debug\net7.0\examen-14-03-23.genruntimeconfig.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\examen-14-03-23\obj\Debug\net7.0\ref\examen-14-03-23.dll
